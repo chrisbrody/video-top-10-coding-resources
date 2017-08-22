@@ -1,0 +1,38 @@
+RESOURCES 1.1 - Intro to video for Top 10 resources for HTML and CSS
+RESOURCES 1.2 - List of resources
+RESOURCES 1.3 - Outro to video for Top 10 resources for HTML and CSS
+
+
+
+RESOURCES 1.1 - Intro to video for Top 10 resources for HTML and CSS
+
+Chris from Codify Academy here.
+In this video i'm going to review some good resources you should explore in the coming weeks
+
+
+RESOURCES 1.2 - List of resources
+ONE YOU SHOULD HAVE ALREADY
+http://w3schools.com
+http://htmlreference.io/
+http://cssreference.io/
+
+
+LEARNING RESOURCES
+http://htmldog.com
+http://learn.shayhowe.com/html-css/
+
+
+VALIDATION RESOURCES
+https://validator.w3.org/#validate_by_input
+https://jigsaw.w3.org/css-validator/#validate_by_input
+
+
+PHONE APPS
+https://www.sololearn.com/Course/HTML/
+https://www.sololearn.com/Course/CSS/
+http://lrnapp.com/
+
+
+
+RESOURCES 1.3 - Outro to video for Top 10 resources for HTML and CSS
+Make sure to use these as resources in the weeks to come.
